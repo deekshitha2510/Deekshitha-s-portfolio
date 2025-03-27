@@ -1,0 +1,110 @@
+{
+    "hello": "Hi! How can I help you?",
+    "introduction": "I am a chatbot that can answer questions about my resume.",
+    "name": "Rajavath Deekshitha",
+    "contact": {
+      "email": "deekshitharajavath@gmail.com",
+      "phone": "+91 8688770283",
+      "linkedin": "https://www.linkedin.com/in/rajavath-deekshitha-1881212a8/",
+      "github": "https://github.com/deekshitha2510"
+    },
+    "summary": "3rd Year Undergraduate, Department of Computer Science and Engineering at IIT Bhilai.",
+    "education": [
+      {
+        "year": "2022 - 2026",
+        "degree": "B.Tech",
+        "institution": "Indian Institute of Technology, Bhilai"
+      },
+      {
+        "year": "2022",
+        "degree": "XII",
+        "institution": "Narayana Junior College, Hindupur",
+        "percentage": "97.8%"
+      },
+      {
+        "year": "2020",
+        "degree": "X",
+        "institution": "Deepthi English Medium School, Hindupur",
+        "percentage": "96.5%"
+      }
+    ],
+    "achievements": [
+      "Secured All India Rank 496 in JEE Advanced 2022.",
+      "Represented IIT Bhilai at Inter IIT Cultural Meet 6.0 at IIT Kharagpur through the Dance Club.",
+      "Recognized for contributions to IIT Bhilai’s Meraz 5.0 Cultural Fest.",
+      "Achieved district-level victory and advanced to the state level in the Chekumukhi contest."
+    ],
+    "work_experience": [
+      {
+        "role": "Intern",
+        "company": "Basil Infotech (Remote)",
+        "duration": "May 2024 - Aug 2024",
+        "responsibilities": [
+          "Developed a feature-rich real estate platform increasing client inquiries by 35%.",
+          "Collaborated with 20 developers to enhance UI, reducing queries by 25%.",
+          "Integrated advanced search and real-time property updates, improving engagement by 40%.",
+          "Incorporated third-party APIs for interactive map views."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Diet Recommendation System using ML",
+        "duration": "Aug 2024 - Dec 2024",
+        "description": "Developed a personalized diet recommendation system using ML.",
+        "technologies": ["Machine Learning", "Content-Based Filtering", "Collaborative Filtering"],
+        "github": "https://github.com/deekshitha2510/DietRecommendationSystem_ML_Project"
+      },
+      {
+        "title": "Sorting Visualizer",
+        "duration": "Aug 2023 - Dec 2023",
+        "description": "Developed a web app to visualize sorting algorithms with real-time animations.",
+        "technologies": ["JavaScript", "React.js"],
+        "github": "https://github.com/deekshitha2510/Sorting_Visualiser"
+      
+      }
+    ],
+    "technical_skills": {
+      "programming_languages": ["C++", "C", "Python", "JavaScript"],
+      "tools": ["MySQL", "Git", "Linux", "Docker", "VS Code", "Figma"],
+      "development": ["HTML", "CSS", "JavaScript", "React.js"],
+      "coursework": [
+        "Data Structures and Algorithms",
+        "Operating Systems",
+        "Database Management Systems",
+        "Information Security",
+        "Computer Networks",
+        "Machine Learning",
+        "Quantum Computing",
+        "Digital Image Processing"
+      ]
+    },
+    "positions_of_responsibility": [
+      {
+        "role": "Volunteer",
+        "committee": "Student Mentorship Programme (2023-24)",
+        "responsibilities": [
+          "Mentored 5 freshmen, helping them adapt to IIT Bhilai.",
+          "Assisted in academics and arranged mentorship meetings."
+        ]
+      },
+      {
+        "role": "Section Head",
+        "committee": "Management Committee (Mar 2024 - Mar 2025)",
+        "responsibilities": [
+          "Led a team of 15 members for smooth coordination.",
+          "Delegated responsibilities effectively."
+        ]
+      },
+      {
+        "role": "Member",
+        "committee": "Beathackers (Dance Club of IIT Bhilai)"
+      },
+      {
+        "role": "Participant",
+        "committee": "Bhilai Premiere League",
+        "responsibilities": ["Won the intra-IIT Bhilai volleyball competition."]
+      }
+    ]
+  }
+  
